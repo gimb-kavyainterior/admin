@@ -39,6 +39,13 @@ table a {
 table a:hover {
     text-decoration: underline;
 }
+.home-link {
+    margin-bottom:-44px;
+    margin-left: 60%;
+}
+.home-link a {
+    color: rgb(0, 175,  239);
+}
 
 /* admin panel css */
 .admin-container {
@@ -184,6 +191,14 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #0056b3;
     
+}
+.home_create{
+    margin-bottom: -45px;
+    margin-left: 73%;
+
+}
+.home_create a {
+    color: rgb(0, 175,  239);
 }
 
 /* view page */

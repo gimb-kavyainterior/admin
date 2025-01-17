@@ -20,6 +20,11 @@ include "header.php";
 
 
 <body class="table_body">
+    <div class="home-link">
+        <a href="./admin.php">Home</a>
+        |
+        <a href="create_project.php">  Create Project</a>
+    </div>
     <h3>Projects</h3>
     <table>
         <tr>
